@@ -1,0 +1,6 @@
+name = "get_avatar"
+version = "0.1.0"
+
+[config]
+avatar_size = 640      # 100/140/640/0(原图)
+allow_self = true      # 不带 @ 时是否返回发送者自己的头像
